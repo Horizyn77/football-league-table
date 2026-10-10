@@ -1,0 +1,19 @@
+[project]
+name = "league"
+version = "1.0.0"
+description = "Compute a football league standings table from match results (CSV in, CSV out)."
+requires-python = ">=3.10"
+# Runtime uses the standard library only; there are no runtime dependencies.
+dependencies = []
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-ra"
+
+[tool.ruff]
+target-version = "py310"
+line-length = 100
+
+[tool.ruff.lint]
+# A small, explicit set: pyflakes, pycodestyle, isort, bugbear, pyupgrade, comprehensions.
+select = ["E", "F", "I", "B", "UP", "C4"]

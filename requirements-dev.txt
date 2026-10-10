@@ -1,0 +1,4 @@
+# Development dependencies only. Runtime code uses the Python standard library alone.
+# Installed into a local virtualenv; never commit the installed packages themselves.
+pytest==8.3.3
+ruff==0.6.9
