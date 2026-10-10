@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+out/*.tmp
+docs/problem_statement.pdf
+Thumbs.db
+desktop.ini
+.DS_Store
+.idea/
+*.iml

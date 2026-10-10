@@ -1,0 +1,355 @@
+ == 1974-08-17 ==
+
+Birmingham City 	0	3 	Middlesbrough	St Andrew's	32,105	
+	Lineups 	Hickton, Foggon 2 	 	 	 
+Burnley 	1	2 	Wolverhampton Wanderers	Turf Moor	20,187	
+Hankin 	Lineups 	Richards, Palmer 	 	 	 
+Chelsea 	0	2 	Carlisle United	Stamford Bridge	31,615	
+	Lineups 	Green, O'Neill 	 	 	 
+Everton 	0	0 	Derby County	Goodison Park	42,293	
+	Lineups 		 	 	 
+Leicester City 	0	1 	Arsenal	Filbert Street	26,448	
+	Lineups 	Kidd 	 	 	 
+Luton Town 	1	2 	Liverpool	Kenilworth Road	21,216	
+Butlin 	Lineups 	Smith, Heighway 	 	 	 
+Manchester City 	4	0 	West Ham United	Maine Road	30,240	
+Marsh 2, Doyle, Tueart 	Lineups 		 	 	 
+Newcastle United 	3	2 	Coventry City	St James' Park	35,950	
+Macdonald, Howard, Kennedy 	Lineups 	Alderson, Hutchison 	 	 	 
+Sheffield United 	1	1 	Queens Park Rangers	Bramall Lane	16,032	
+Cammack 	Lineups 	Francis 	 	 	 
+Stoke City 	3	0 	Leeds United	Victoria Ground	33,534	
+Mahoney, Greenhoff, Ritchie 	Lineups 		 	 	 
+Tottenham Hotspur 	0	1 	Ipswich Town	White Hart Lane	26,444	
+	Lineups 	Johnson
+
+ == 1974-08-19 ==
+
+West Ham United 	2	0 	Luton Town	Upton Park	23,182	
+Bonds, Lampard 	Lineups 	
+
+ == 1974-08-20 ==
+
+Arsenal 	0	1 	Ipswich Town	Highbury	31,027	
+	Lineups 	Lambert 	 	 	 
+Birmingham City 	3	4 	Leicester City	St Andrew's	27,961	
+Burns, Francis 2 (1p) 	Lineups 	Weller, Worthington 2, Rofe 	 	 	 
+Everton 	2	1 	Stoke City	Goodison Park	35,817	
+Royle 2 	Lineups 	Salmons 	 	 	 
+Middlesbrough 	0	2 	Carlisle United	Ayresome Park	28,719	
+	Lineups 	O'Neill 2 	 	 	 
+Wolverhampton Wanderers 	0	0 	Liverpool	Molineux	33,499	
+	Lineups 		 
+
+ == 1974-08-21 ==
+
+Chelsea 	3	3 	Burnley	Stamford Bridge	23,745	
+Cooke, Houseman, Garner 	Lineups 	Dobson, Hankin, Fletcher 	 	 	 
+Derby County 	1	1 	Coventry City	Baseball Ground	25,717	
+Lee 	Lineups 	Mortimer 	 	 	 
+Leeds United 	0	1 	Queens Park Rangers	Elland Road	31,497	
+	Lineups 	Francis 	 	 	 
+Manchester City 	1	0 	Tottenham Hotspur	Maine Road	31,549	
+Hartford 	Lineups 		 	 	 
+Newcastle United 	2	2 	Sheffield United	St James' Park	34,283	
+Macdonald, Burns 	Lineups 	Eddy (p), Speight 	 
+
+ == 1974-08-24 ==
+
+Arsenal 	4	0 	Manchester City	Highbury	27,143	
+Kidd 2, Radford 2 	Lineups 		 	 	 
+Carlisle United 	1	0 	Tottenham Hotspur	Brunton Park	18,426	
+Balderstone (p) 	Lineups 		 	 	 
+Coventry City 	1	3 	Chelsea	Highfield Road	21,251	
+Cross 	Lineups 	Locke, Cooke, Garner 	 	 	 
+Derby County 	2	0 	Sheffield United	Baseball Ground	23,088	
+Davies, Hector 	Lineups 		 	 	 
+Ipswich Town 	2	0 	Burnley	Portman Road	22,361	
+Talbot (p), Whymark 	Lineups 		 	 	 
+Leeds United 	1	0 	Birmingham City	Elland Road	30,820	
+Clarke 	Lineups 		 	 	 
+Liverpool 	2	1 	Leicester City	Anfield Road	49,398	
+Lindsay 2 (2p) 	Lineups 	Weller 	 	 	 
+Middlesbrough 	1	1 	Luton Town	Ayresome Park	21,478	
+Mills 	Lineups 	Butlin 	 	 	 
+Queens Park Rangers 	0	1 	Stoke City	Loftus Road	21,117	
+	Lineups 	Hurst 	 	 	 
+West Ham United 	2	3 	Everton	Upton Park	22,486	
+Bonds, McDowell 	Lineups 	Harvey, Latchford, Royle (p) 	 	 	 
+Wolverhampton Wanderers 	4	2 	Newcastle United	Molineux	23,526	
+Hibbitt 4 	Lineups 	Tudor 2
+
+
+ == 1974-08-27 ==
+
+Burnley 	1	2 	Chelsea	Turf Moor	17,441	
+James (p) 	Lineups 	Hutchinson, Garner 	 	 	 
+Carlisle United 	0	1 	Middlesbrough	Brunton Park	18,473	
+	Lineups 	Armstrong 	 	 	 
+Coventry City 	1	1 	Derby County	Highfield Road	18,659	
+Carr 	Lineups 	Davies 	 	 	 
+Ipswich Town 	3	0 	Arsenal	Portman Road	27,510	
+Lambert 2, Beattie 	Lineups 		 	 	 
+Liverpool 	2	0 	Wolverhampton Wanderers	Anfield Road	42,449	
+Heighway, Toshack 	Lineups 		 	 	 
+Queens Park Rangers 	1	1 	Leeds United	Loftus Road	24,965	
+Givens 	Lineups 	Yorath 	 	 	 
+Sheffield United 	2	1 	Newcastle United	Bramall Lane	17,651	
+Cammack, Field 	Lineups 	Keeley
+
+ == 1974-08-28 ==
+
+Leicester City 	1	1 	Birmingham City	Filbert Street	24,018	
+Worthington 	Lineups 	Francis 	 	 	 
+Luton Town 	0	0 	West Ham United	Kenilworth Road	16,931	
+	Lineups 		 	 	 
+Stoke City 	1	1 	Everton	Victoria Ground	27,954	
+Mahoney 	Lineups 	Latchford 	 	 	 
+Tottenham Hotspur 	1	2 	Manchester City	White Hart Lane	20,079	
+Peters 	Lineups 	Bell, Booth
+
+ == 1974-08-31 ==
+
+Birmingham City 	1	1 	Wolverhampton Wanderers	St Andrew's	33,785	
+Burns 	Lineups 	Richards 	 	 	 
+Burnley 	3	0 	Coventry City	Turf Moor	14,644	
+Noble, Hankin, James 	Lineups 		 	 	 
+Chelsea 	0	3 	Liverpool	Stamford Bridge	39,461	Largest home gate 1974-75
+	Lineups 	Kennedy, Boersma 2 	 	 	 
+Everton 	2	1 	Arsenal	Goodison Park	42,438	
+Latchford 2 	Lineups 	Kidd 	 	 	 
+Leicester City 	1	1 	Carlisle United	Filbert Street	20,658	
+Worthington (p) 	Lineups 	McIlmoyle 	 	 	 
+Luton Town 	1	1 	Queens Park Rangers	Kenilworth Road	18,535	
+Ryan John 	Lineups 	Bowles (p) 	 	 	 
+Manchester City 	2	1 	Leeds United	Maine Road	37,919	
+Bell, Summerbee 	Lineups 	Clarke 	 	 	 
+Newcastle United 	2	0 	West Ham United	St James' Park	30,782	
+Tudor, Macdonald 	Lineups 		 	 	 
+Sheffield United 	3	1 	Ipswich Town	Bramall Lane	17,963	
+Mills OG, Field 2 	Lineups 	Lambert 	 	 	 
+Stoke City 	1	1 	Middlesbrough	Victoria Ground	23,475	
+Ritchie (p) 	Lineups 	Souness 	 	 	 
+Tottenham Hotspur 	2	0 	Derby County	White Hart Lane	20,670	
+Neighbour 2 	Lineups 	
+
+
+ == 1974-09-07 ==
+
+Arsenal 	0	1 	Burnley	Highbury	23,586	
+	Lineups 	Noble 	 	 	 
+Carlisle United 	0	2 	Stoke City	Brunton Park	14,507	
+	Lineups 	Hudson, Ritchie 	 	 	 
+Coventry City 	2	2 	Manchester City	Highfield Road	15,555	
+Alderson, Stein 	Lineups 	Marsh, Oakes 	 	 	 
+Derby County 	2	2 	Newcastle United	Baseball Ground	21,197	
+Davies, Lee 	Lineups 	Macdonald, Burns 	 	 	 
+Ipswich Town 	1	0 	Everton	Portman Road	23,393	
+Woods 	Lineups 		 	 	 
+Leeds United 	1	1 	Luton Town	Elland Road	26,516	
+Clarke 	Lineups 	Butlin 	 	 	 
+Liverpool 	5	2 	Tottenham Hotspur	Anfield Road	47,538	
+Boersma 3, Hughes, Kennedy 	Lineups 	Perryman, Chivers 	 	 	 
+Middlesbrough 	1	1 	Chelsea	Ayresome Park	25,480	
+Maddren 	Lineups 	Hutchinson 	 	 	 
+Queens Park Rangers 	0	1 	Birmingham City	Loftus Road	16,058	
+	Lineups 	Gallagher 	 	 	 
+West Ham United 	1	2 	Sheffield United	Upton Park	20,977	
+Jennings 	Lineups 	Woodward, Dearden 	 	 	 
+Wolverhampton Wanderers 	1	1 	Leicester City	Molineux	20,564	
+Richards 	Lineups 	Glover 	 
+
+ == 1974-09-14 ==
+
+Birmingham City 	3	2 	Derby County	St Andrew's	27,345	
+Hatton, Francis 2 (2p) 	Lineups 	Rioch, Davies 	 	 	 
+Burnley 	2	1 	Leeds United	Turf Moor	25,384	
+Fletcher, James (p) 	Lineups 	Lorimer 	 	 	 
+Chelsea 	0	0 	Arsenal	Stamford Bridge	34,596	
+	Lineups 		 	 	 
+Everton 	0	0 	Wolverhampton Wanderers	Goodison Park	36,875	
+	Lineups 		 	 	 
+Leicester City 	3	1 	Queens Park Rangers	Filbert Street	19,763	
+Worthington 2, Glover 	Lineups 	Francis 	 	 	 
+Luton Town 	1	4 	Ipswich Town	Kenilworth Road	17,577	
+Alston 	Lineups 	Talbot 2 (1p), Hamilton, Whymark 	 	 	 
+Manchester City 	2	0 	Liverpool	Maine Road	45,194	Largest home gate 1974-75
+Marsh, Tueart 	Lineups 		 	 	 
+Newcastle United 	1	0 	Carlisle United	St James' Park	40,568	
+Tudor 	Lineups 		 	 	 
+Sheffield United 	1	0 	Middlesbrough	Bramall Lane	22,519	
+Eddy (p) 	Lineups 		 	 	 
+Stoke City 	2	0 	Coventry City	Victoria Ground	22,842	
+Mahoney, Ritchie 	Lineups 		 	 	 
+Tottenham Hotspur 	2	1 	West Ham United	White Hart Lane	27,959	
+England, Chivers 	Lineups 	Lampard
+
+ == 1974-09-21 ==
+
+Arsenal 	2	2 	Luton Town	Highbury	21,629	
+Kidd 2 	Lineups 	Alston, Shanks 	 	 	 
+Carlisle United 	1	0 	Birmingham City	Brunton Park	12,691	
+O'Neill 	Lineups 		 	 	 
+Coventry City 	1	1 	Everton	Highfield Road	15,217	
+Holmes (p) 	Lineups 	Latchford 	 	 	 
+Derby County 	3	2 	Burnley	Baseball Ground	21,377	
+Rioch (p), Hector, Lee 	Lineups 	Todd OG, Daniel OG 	 	 	 
+Ipswich Town 	2	0 	Chelsea	Portman Road	23,111	
+Talbot, Johnson 	Lineups 		 	 	 
+Leeds United 	5	1 	Sheffield United	Elland Road	33,739	
+Clarke 2, McQueen, Lorimer (p), Yorath 	Lineups 	Dearden 	 	 	 
+Liverpool 	3	0 	Stoke City	Anfield Road	51,423	
+Ritchie OG, Boersma, Heighway 	Lineups 		 	 	 
+Middlesbrough 	3	0 	Manchester City	Ayresome Park	30,256	
+Mills, Foggon 2 	Lineups 		 	 	 
+Queens Park Rangers 	1	2 	Newcastle United	Loftus Road	18,594	
+Keeley OG 	Lineups 	Tudor, Burns 	 	 	 
+West Ham United 	6	2 	Leicester City	Upton Park	21,377	
+Gould 2,Jennings 2,Bonds,Robson 	Lineups 	Worthington 2 	 	 	 
+Wolverhampton Wanderers 	2	3 	Tottenham Hotspur	Molineux	20,647	
+Evans OG, Parkin 	Lineups 	Peters, Chivers 2
+
+ == 1974-09-24 ==
+
+Carlisle United 	0	0 	Manchester City	Brunton Park	17,495	
+	Lineups 		 	 	 
+Coventry City 	2	1 	Luton Town	Highfield Road	15,643	
+Stein, Cross 	Lineups 	Ryan Jim (p) 	 	 	 
+Ipswich Town 	3	1 	Stoke City	Portman Road	24,469	
+Viljoen, Hamilton, Whymark 	Lineups 	Salmons 	 	 	 
+Liverpool 	0	1 	Burnley	Anfield Road	44,639	
+	Lineups 	Brennan 	 	 	 
+Queens Park Rangers 	2	2 	Everton	Loftus Road	16,638	
+Givens, Busby 	Lineups 	Latchford, Pearson 	 	 	 
+Wolverhampton Wanderers 	1	1 	Sheffield United	Molineux	15,187	
+Daley 	Lineups 	Woodward
+
+
+ == 1974-09-25 ==
+
+Derby County 	4	1 	Chelsea	Baseball Ground	22,036	
+Webster, Rioch, Hector, Daniel 	Lineups 	Hutchinson 	 	 	 
+West Ham United 	3	0 	Birmingham City	Upton Park	29,495	
+Jennings, Paddon, Robson 	Lineups 
+
+ == 1974-09-28 ==	
+
+Birmingham City 	3	1 	Arsenal	St Andrew's	25,584	
+Burns, Hatton 2 	Lineups 	George 	 	 	 
+Burnley 	3	5 	West Ham United	Turf Moor	17,644	
+Fletcher 2, Noble 	Lineups 	Robson 2, Bonds, Brooking, Jennings 	 	 	 
+Chelsea 	0	1 	Wolverhampton Wanderers	Stamford Bridge	23,073	
+	Lineups 	Richards 	 	 	 
+Everton 	3	2 	Leeds United	Goodison Park	41,824	
+Clements, Lyons, Seargeant 	Lineups 	Clarke, Yorath 	 	 	 
+Leicester City 	0	1 	Coventry City	Filbert Street	21,354	
+	Lineups 	Holmes 	 	 	 
+Luton Town 	3	1 	Carlisle United	Kenilworth Road	12,987	
+Anderson, Alston, Ryan Jim (p) 	Lineups 	Laidlaw 	 	 	 
+Manchester City 	1	0 	Queens Park Rangers	Maine Road	30,647	
+Marsh 	Lineups 		 	 	 
+Newcastle United 	1	0 	Ipswich Town	St James' Park	43,526	Largest home gate 1974-75
+Howard 	Lineups 		 	 	 
+Sheffield United 	1	0 	Liverpool	Bramall Lane	29,443	
+Woodward 	Lineups 		 	 	 
+Stoke City 	1	1 	Derby County	Victoria Ground	23,590	
+Hurst 	Lineups 	Lee 	 	 	 
+Tottenham Hotspur 	1	2 	Middlesbrough	White Hart Lane	23,282	
+Neighbour 	Lineups 	Armstrong, Mills 	 	 
+
+ == 1974-10-05 ==
+
+Birmingham City 	1	2 	Coventry City	St Andrew's	30,282	
+Francis (p) 	Lineups 	Lloyd, Holmes 	 	 	 
+Carlisle United 	0	1 	Liverpool	Brunton Park	20,844	Largest home gate 1974-75
+	Lineups 	Kennedy 	 	 	 
+Everton 	1	1 	Newcastle United	Goodison Park	40,000	
+Buckley 	Lineups 	McDermott 	 	 	 
+Leeds United 	2	0 	Arsenal	Elland Road	32,784	
+McKenzie 2 	Lineups 		 	 	 
+Leicester City 	0	0 	Luton Town	Filbert Street	19,024	
+	Lineups 		 	 	 
+Manchester City 	1	1 	Chelsea	Maine Road	32,412	
+Bell 	Lineups 	Hutchinson 	 	 	 
+Middlesbrough 	2	1 	Wolverhampton Wanderers	Ayresome Park	27,443	
+Hickton, Willey 	Lineups 	Dougan 	 	 	 
+Queens Park Rangers 	1	0 	Ipswich Town	Loftus Road	19,494	
+Francis 	Lineups 		 	 	 
+Stoke City 	3	2 	Sheffield United	Victoria Ground	21,722	
+Hurst, Greenhoff, Smith 	Lineups 	Eddy (p), Field 	 	 	 
+Tottenham Hotspur 	2	3 	Burnley	White Hart Lane	18,441	
+Pratt, England 	Lineups 	England OG, James, Pratt OG 	 	 	 
+West Ham United 	2	2 	Derby County	Upton Park	32,900	
+Bonds, Robson 	Lineups 	Hector, Lee
+
+ == 1974-10-12 ==
+
+Arsenal 	2	2 	Queens Park Rangers	Highbury	29,690	
+Kidd, Radford 	Lineups 	Bowles 2 (2p) 	 	 	 
+Burnley 	2	1 	Manchester City	Turf Moor	23,512	
+Fletcher, Clarke OG 	Lineups 	Tueart (p) 	 	 	 
+Chelsea 	1	0 	Tottenham Hotspur	Stamford Bridge	32,660	
+Hollins (p) 	Lineups 		 	 	 
+Coventry City 	1	1 	West Ham United	Highfield Road	22,556	
+Hutchison 	Lineups 	Gould 	 	 	 
+Derby County 	1	0 	Leicester City	Baseball Ground	24,753	
+Rioch 	Lineups 		 	 	 
+Ipswich Town 	0	0 	Leeds United	Portman Road	29,817	
+	Lineups 		 	 	 
+Liverpool 	2	0 	Middlesbrough	Anfield Road	52,590	
+Callaghan, Keegan (p) 	Lineups 		 	 	 
+Luton Town 	1	3 	Birmingham City	Kenilworth Road	15,097	
+Hindson 	Lineups 	Francis 3 	 	 	 
+Newcastle United 	2	2 	Stoke City	St James' Park	39,658	
+Tudor, Keeley 	Lineups 	Salmons, Mahoney 	 	 	 
+Sheffield United 	2	2 	Everton	Bramall Lane	23,655	
+Dearden, Woodward 	Lineups 	Buckley, Lyons 	 	 	 
+Wolverhampton Wanderers 	2	0 	Carlisle United	Molineux	18,918	
+Withe, Parkin 	Lineups 	
+
+ == 1974-10-15 ==
+
+Birmingham City 	1	0 	Leeds United	St Andrew's	36,513	Largest home gate 1974-75
+Francis 	Lineups 		 	 	 
+Burnley 	1	0 	Ipswich Town	Turf Moor	18,011	
+Fletcher 	Lineups 		 	 	 
+Everton 	1	1 	West Ham United	Goodison Park	31,882	
+Lyons 	Lineups 	Gould 	 	 	 
+Sheffield United 	1	2 	Derby County	Bramall Lane	21,882	
+Field 	Lineups 	Lee 2
+
+ == 1974-10-16 ==
+
+Luton Town 	0	1 	Middlesbrough	Kenilworth Road	10,464	
+	Lineups 	Foggon 	 	 	 
+Manchester City 	2	1 	Arsenal	Maine Road	26,658	
+Tueart 2 	Lineups 	Radford 	 	 	 
+Newcastle United 	0	0 	Wolverhampton Wanderers	St James' Park	30,825	
+	Lineups 		 	 	 
+Tottenham Hotspur 	1	1 	Carlisle United	White Hart Lane	12,813	
+Chivers 	Lineups 	Owen
+
+ == 1974-10-19 ==
+
+Birmingham City 	3	0 	Newcastle United	St Andrew's	33,339	
+Burns, Styles, Hatton 	Lineups 		 	 	 
+Carlisle United 	3	0 	Derby County	Brunton Park	13,353	
+Train, Martin, Clarke F 	Lineups 		 	 	 
+Everton 	1	1 	Chelsea	Goodison Park	35,806	
+Jones 	Lineups 	Cooke 	 	 	 
+Leeds United 	2	0 	Wolverhampton Wanderers	Elland Road	31,224	
+Clarke, McKenzie 	Lineups 		 	 	 
+Leicester City 	3	0 	Sheffield United	Filbert Street	18,433	
+Worthington 2, Glover 	Lineups 		 	 	 
+Manchester City 	1	0 	Luton Town	Maine Road	30,649	
+Summerbee 	Lineups 		 	 	 
+Middlesbrough 	4	4 	Coventry City	Ayresome Park	25,499	
+Souness 2, Mills, Foggon 	Lineups 	Stein, Cross, Holmes 2 	 	 	 
+Queens Park Rangers 	0	1 	Liverpool	Loftus Road	27,392	
+	Lineups 	Hall 	 	 	 
+Stoke City 	2	0 	Burnley	Victoria Ground	23,561	
+Marsh, Hurst 	Lineups 		 	 	 
+Tottenham Hotspur 	2	0 	Arsenal	White Hart Lane	36,294	
+Perryman, Chivers 	Lineups 		 	 	 
+West Ham United 	1	0 	Ipswich Town	Upton Park	33,543	
+Jennings 	Lineups 	
