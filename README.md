@@ -30,6 +30,8 @@ python3 --version
 ## Setup
 
 ```bash
+git clone <repo-url>
+cd <repo>
 python3 -m venv .venv
 source .venv/bin/activate
 pip install -r requirements-dev.txt
@@ -45,7 +47,7 @@ With files:
 python3 -m league --input data/results.csv --week 10 --season-start 1974-08-17 --output out/week10_table.csv
 ```
 
-The same result using stdin/stdout and the date-based cutoff (week 10 ended 1974-10-19):
+The same result using stdin/stdout and the date-based cutoff (the last week 10 games were played on 1974-10-19):
 
 ```bash
 python3 -m league --until 1974-10-19 --season-start 1974-08-17 < data/results.csv > out/week10_table.csv
@@ -73,6 +75,33 @@ python3 -m league [--input FILE] [--output FILE] (--week N | --until YYYY-MM-DD)
 
 On bad input or usage the program prints `error: <reason>` to stderr and exits non-zero,
 without a stack trace.
+
+## Definition of "week N"
+
+- Week 1 starts on the season start date, 1974-08-17 (a Saturday). Set it with `--season-start`;
+  if omitted, it defaults to the earliest match date in the input.
+- Week N is the Nth 7-day block from that date: `week = (date - season_start).days // 7 + 1`.
+- The table for week N includes every match from week 1 through week N inclusive.
+- Week 5 is 1974-09-14 to 1974-09-20 and week 10 is 1974-10-19 to 1974-10-25. No First Division
+  games were played after 1974-10-19 that week, so `--until 1974-10-19` gives the same table
+  as `--week 10`.
+- The brief says "10th week" without defining it, so this is an assumption. Clubs play different
+  numbers of games per week (midweek fixtures), so teams can have different games played.
+
+## Input format
+
+CSV with this header, one match per row, in date order:
+
+```
+date,home_team,away_team,home_goals,away_goals
+```
+
+Example row:
+
+```
+1974-08-17,Birmingham City,Middlesbrough,0,3
+
+```
 
 ## Output format
 
@@ -129,6 +158,17 @@ independent sanity facts (after week 10 Liverpool are played 13, 9-1-3, 21–8, 
 19 points, and Leicester City have the fewest games played at 12; after week 5 Ipswich Town lead
 on 12 points and a 3.250 goal average).
 
+### How the data and fixtures were checked
+
+- The raw results were copied by hand from the site, which has no CSV export. The per-date
+  match counts were checked, and one wrong date header (25 Oct that should have been 5 Oct)
+  was caught and fixed before any code was written.
+- The week 5 and week 10 expected tables were built from the site's own standings tables for
+  those dates (home and away combined), not from this program's output, so the tests compare
+  the code against an independent source.
+- The same two tables were also computed independently from the raw results and compared with
+  the site's tables; both matched.
+
 ## Assumptions
 
 - A match line in the raw data is one whose 2nd and 3rd tab fields are integers; everything else
@@ -137,7 +177,6 @@ on 12 points and a 3.250 goal average).
   fixtures. This is expected, not an error.
 - The input contains only First Division league matches (no cup or international games).
 - Input rows are in non-decreasing date order; the program rejects dates that go backwards.
-- The input CSV includes the header row shown above.
 
 ## Development notes
 
