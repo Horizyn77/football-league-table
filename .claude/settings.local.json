@@ -1,0 +1,33 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -m venv .venv)",
+      "Bash(./.venv/Scripts/python.exe -m pip install --quiet --upgrade pip)",
+      "Bash(./.venv/Scripts/python.exe -m pip install --quiet -r requirements-dev.txt)",
+      "Bash(./.venv/Scripts/python.exe --version)",
+      "Bash(./.venv/Scripts/python.exe -m pytest --version)",
+      "Bash(git add *)",
+      "Bash(git check-ignore *)",
+      "Bash(./.venv/Scripts/python.exe -m ruff check .)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format --check .)",
+      "Bash(git commit -q -m ' *)",
+      "Bash(./.venv/Scripts/python.exe -m pytest -q)",
+      "Bash(./.venv/Scripts/python.exe -m ruff check league tests)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format --check league tests)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format league tests)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format league/table.py)",
+      "Bash(echo \"exit: $?\")",
+      "Bash(./.venv/Scripts/python.exe -m ruff format league/cli.py tests/test_cli.py)",
+      "Bash(./.venv/Scripts/python.exe tools/convert_raw.py)",
+      "Bash(./.venv/Scripts/python.exe -I -c ' *)",
+      "Bash(./.venv/Scripts/python.exe -c ' *)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format tools tests)",
+      "Bash(./.venv/Scripts/python.exe -m league --input data/results.csv --week 10 --season-start 1974-08-17 --output out/week10_table.csv)",
+      "Bash(./.venv/Scripts/python.exe -m league --input data/results.csv --week 5 --season-start 1974-08-17 --output out/week5_table.csv)",
+      "Bash(./.venv/Scripts/python.exe -m ruff format tests)",
+      "Bash(./.venv/Scripts/python.exe -m league --until 1974-10-19 --season-start 1974-08-17)",
+      "Bash(rm -f out/_readme_check.csv)",
+      "Bash(./.venv/Scripts/python.exe -c \"import sys; print\\('no yaml lib; basic read'\\); open\\('.github/workflows/ci.yml'\\).read\\(\\); print\\('readable'\\)\")"
+    ]
+  }
+}
