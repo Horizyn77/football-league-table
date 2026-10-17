@@ -160,7 +160,7 @@ on 12 points and a 3.250 goal average).
 
 ### How the data and fixtures were checked
 
-- The raw results were copied by hand from the site, which has no CSV export. The per-date
+- The raw results were copied by hand from the site: englishfootballleaguetables.co.uk, which has no CSV export. The per-date
   match counts were checked, and one wrong date header (25 Oct that should have been 5 Oct)
   was caught and fixed before any code was written.
 - The week 5 and week 10 expected tables were built from the site's own standings tables for
